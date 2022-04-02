@@ -19,9 +19,15 @@ namespace FilmesAPI.Controllers
         }
 
         [HttpGet]
-        public IEnumerable<Filme> RecupararFilmes()
+        public IEnumerable<Filme> RecuparaFilmes()
         {
             return filmes;
+        }
+
+        [HttpGet("{id}")]
+        public Filme RecuperaFilmesPorId(int id)
+        {
+           return filmes.FirstOrDefault(filme => filme.Id == id);
         }
     }
 }
