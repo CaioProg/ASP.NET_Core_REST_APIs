@@ -106,3 +106,5 @@ C:\Workspace\ASP.NET_Core_REST_APIs\FilmesAPI\obj\Debug\net6.0\FilmesAPI.genrunt
 C:\Workspace\ASP.NET_Core_REST_APIs\FilmesAPI\obj\Debug\net6.0\ref\FilmesAPI.dll
 C:\Workspace\ASP.NET_Core_REST_APIs\FilmesAPI\bin\Debug\net6.0\MySqlConnector.dll
 C:\Workspace\ASP.NET_Core_REST_APIs\FilmesAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Workspace\ASP.NET_Core_REST_APIs\FilmesAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Workspace\ASP.NET_Core_REST_APIs\FilmesAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

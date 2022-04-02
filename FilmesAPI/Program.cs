@@ -10,6 +10,8 @@ builder.Services.AddDbContextPool<FilmeContext>(options =>
                 options.UseMySql(FilmeConnection,
                       ServerVersion.AutoDetect(FilmeConnection)));
 
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies()); 
+
 builder.Services.AddControllers();
 
 builder.Services.AddEndpointsApiExplorer();
