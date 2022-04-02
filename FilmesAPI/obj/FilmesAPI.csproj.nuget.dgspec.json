@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj": {}
+    "C:\\Workspace\\ASP.NET_Core_REST_APIs\\FilmesAPI\\FilmesAPI.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj": {
+    "C:\\Workspace\\ASP.NET_Core_REST_APIs\\FilmesAPI\\FilmesAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+        "projectUniqueName": "C:\\Workspace\\ASP.NET_Core_REST_APIs\\FilmesAPI\\FilmesAPI.csproj",
         "projectName": "FilmesAPI",
-        "projectPath": "C:\\Workspace\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+        "projectPath": "C:\\Workspace\\ASP.NET_Core_REST_APIs\\FilmesAPI\\FilmesAPI.csproj",
         "packagesPath": "C:\\Users\\CaioLucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\FilmesAPI\\FilmesAPI\\obj\\",
+        "outputPath": "C:\\Workspace\\ASP.NET_Core_REST_APIs\\FilmesAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CaioLucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
